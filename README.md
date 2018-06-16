@@ -1,2 +1,2 @@
 # porfolio
-my own website
+Personal Website @ www.thumbi.co.ke
