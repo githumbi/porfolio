@@ -1,10 +1,10 @@
 const staticCacheName = 'site-static-v1';
 const assets = [
-  '/portfolio/',
-  '/portfolio/index.html',
-  '/portfolio/js/*',
-  '/portfolio/css/*',
-  '/portfolio/images/*',
+  '/',
+  '/index.html',
+  '/js/*',
+  '/css/*',
+  '/images/*',
 ];
 // install event
 self.addEventListener('install', evt => {
