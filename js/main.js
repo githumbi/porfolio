@@ -284,7 +284,7 @@
     }
 
     function sendMail() {
-        $('.contact-form [type="submit"]').on('click', function () {
+        $('.contact-form-removed [type="submit"]').on('click', function () {
 
             var emailVal = $('#contact-email').val();
 
