@@ -1,2 +1,2 @@
 # porfolio
-Personal Website @ www.thumbi.co.ke
+Personal Website @ https://githumbi.me/portfolio/
